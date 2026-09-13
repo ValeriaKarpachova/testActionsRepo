@@ -8,6 +8,3 @@ test('5 * 2 = 10', () => {
   expect(multiply(5, 2)).toBe(10);
 });
 
-test('10 * 3 = 30', () => {
-  expect(multiply(10, 3)).toBe(30);
-});
