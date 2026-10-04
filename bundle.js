@@ -1,0 +1,1 @@
+(()=>{var t={858(t){t.exports={sum:function(t,n){return t+n},multiply:function(t,n){return t*n}}}};const n={},e=function e(r){const o=n[r];if(void 0!==o)return o.exports;const u=n[r]={exports:{}};return t[r](u,u.exports,e),u.exports}(858);document.getElementById("result").textContent=`2 + 3 = ${e(2,3)}`})();
